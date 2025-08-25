@@ -1,4 +1,4 @@
-# AdeolaAdeago
+# AdeolaAdeagbo
 <!-- GitHub Profile README for github.com/AdeolaAdeagbo -->
 
 <p align="center">
